@@ -11,3 +11,4 @@ Here are further descriptions of the scripts
    - In the code, I use the fft to numerically solve the KdV equations. The Crank-Nicolson method was used for time-stepping. The type of initial condition was given in the assignment
    - Note that, much of this sample code was code by me.
      - However, I have to acknowledge that in this course, some code was given for us to use or as a sample. Some parts that I wrote were probably copied or at least inspired from these samples.
+   - I also use modified versions of the code to answer parts of the assignment, including solving the Kawahara-Toh or Benny equation.
