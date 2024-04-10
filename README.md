@@ -4,8 +4,8 @@ This is some selected coding projects I did while I was in undegrad (including h
 Here are further descriptions of the scripts
 1) "KdV simulation" - this code was used to answer a question in an assignment I had during honours in 2020 (yes, pandemic time!). This was done in MATLAB.
    - In the code, I use the fft to numerically solve the KdV equations. The Crank-Nicolson method was used for time-stepping. The type of initial condition was given in the assignment
-   - Note that, much of this sample code was code by me.
-     - However, I have to acknowledge that in this course, some code was given for us to use or as a sample. Some parts that I wrote were probably at least inspired from these samples. It may also be at least inspired from discussions with the lecturer or fellow students.
+   - Note that, much of this code was by me.
+     - However, I have to acknowledge that in this course, some code was given for us to use or as a sample. Some parts that I wrote were probably at least inspired from these samples. It may also be at least inspired from discussions with the lecturer or fellow students. 
    - I also use modified versions of the code to answer parts of the assignment, including solving the Kawahara-Toh or Benny equation.
 
 2) COMING SOON: "Atoms and the Void" - this code was used for part of my assignment during my honours year in 2020. This was done in Jupyter Notebook using the Python language.
