@@ -8,7 +8,7 @@ Here are further descriptions of the scripts
      - However, I have to acknowledge that in this course, some code was given for us to use or as a sample. Some parts that I wrote were probably at least inspired from these samples. It may also be at least inspired from discussions with the lecturer or fellow students. 
    - I also use modified versions of the code to answer parts of the assignment, including solving the Kawahara-Toh or Benny equation.
 
-2) COMING SOON: "Atoms and the Void" - this code was used for part of my assignment during my honours year in 2020. This was done in Jupyter Notebook using the Python language.
+2) "Atoms and the Void" - this code was used for part of my assignment during my honours year in 2020. This was done in Jupyter Notebook using the Python language.
    - In the code, I run forward in time many small particles contained in a circular domain.
      - I also calculate entropy using either sector partitions or radial partitions of the circular domain.
    - I also use modified versions of the code to run other cases such as the container being a rectangular box or to calculate total linear and angular momentum.
